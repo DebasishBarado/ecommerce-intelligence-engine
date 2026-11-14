@@ -1,0 +1,8 @@
+
+Product_ID,Product_Name,Stock_On_Hand,Reorder_Level,Lead_Time_Days
+P101,Laptop,25,10,7
+P102,Mouse,100,20,3
+P103,Keyboard,40,10,5
+P104,Monitor,15,8,10
+P105,Headphones,8,10,6
+P106,Chair,12,5,12

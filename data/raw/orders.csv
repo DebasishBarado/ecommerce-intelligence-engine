@@ -1,0 +1,12 @@
+Order_ID,Order_Date,Product_ID,Product_Name,Category,Quantity,Unit_Price,Cost_Price,Discount_Rate,Region,City,Order_Status
+
+ORD1001,2026-11-01,P101,Laptop,Electronics,2,50000,40000,0.10,East,Bhubaneswar,Delivered
+ORD1001,2026-11-01,P102,Mouse,Accessories,3,1000,600,0.05,East,Bhubaneswar,Delivered
+ORD1002,2026-11-02,P103,Keyboard,Accessories,4,1500,900,0.00,West,Mumbai,Delivered
+ORD1003,2026-11-03,P101,Laptop,Electronics,1,50000,40000,0.15,North,Delhi,Delivered
+ORD1004,2026-11-04,P104,Monitor,Electronics,2,12000,9000,0.10,South,Chennai,Shipped
+ORD1005,2026-11-05,P105,Headphones,Electronics,5,2000,1200,0.20,East,Kolkata,Delivered
+ORD1006,2026-11-06,P102,Mouse,Accessories,10,1000,600,0.00,West,Pune,Delivered
+ORD1007,2026-11-07,P106,Chair,Furniture,2,8000,5500,0.05,North,Delhi,Cancelled
+ORD1008,2026-11-08,P103,Keyboard,Accessories,3,1500,900,0.10,South,Hyderabad,Delivered
+ORD1009,2026-11-09,P104,Monitor,Electronics,1,12000,9000,0.00,East,Bhubaneswar,Shipped
